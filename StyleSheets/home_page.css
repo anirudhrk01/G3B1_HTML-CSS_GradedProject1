@@ -188,7 +188,7 @@ a {
 }
 
 .singleProductConfig h4 {
-    position: relative;
+    position: static;
     text-align: justify;
     margin: 2%;
     font-size: medium;
