@@ -196,7 +196,7 @@ a {
 }
 
 .singleProductConfig button {
-    position: relative;
+    position: static;
     margin-left: 25px;
     margin-bottom: 5px;
     padding: 5px;
